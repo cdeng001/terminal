@@ -88,4 +88,4 @@ typings/
 .dynamodb/
 
 .vscode/
-.DS_Store
+*.DS_Store
